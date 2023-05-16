@@ -1,2 +1,2 @@
 # helloappbox/files
-This repository is currently not in use, check back later.
+Awesome assets that are served from here to AppBox.
